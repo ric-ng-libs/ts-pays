@@ -1,0 +1,17 @@
+{
+  "name": "@ric-ng/ts-pays",
+  "version": "0.0.1",
+  "description": "Classes/Interfaces Typescript - gestion de Pays. (mais Librairie créée au format: Angular Package).",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "dependencies": {
+    "@ric-ng/ts-general": "0.0.1"
+  },
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/ric-ng-libs/ts-pays.git"
+  },
+  "publishConfig": { "access": "public" }
+}
